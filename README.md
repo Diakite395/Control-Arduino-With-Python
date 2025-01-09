@@ -33,7 +33,9 @@ Ce projet sert de point de départ pour développer des applications interactive
 
 ### Installation de `pySerial` :
 ```bash
-pip install pyserial
+pip install pyserial bash
+```
+
 
 ## **Architecture du projet**
 
